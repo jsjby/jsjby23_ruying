@@ -15,6 +15,32 @@
 
 [截止：暂无] [国防科技大学系统工程学院2023年优秀大学生夏令营营员名单](http://yjszs.nudt.edu.cn/zsmh/pubweb/homePageList/detailed.view?keyId=13122)
 
+[截止：暂无] [南开大学人工智能学院优秀大学生夏令营入营名单公示](https://ai.nankai.edu.cn/info/1024/5371.htm)
+
+[截止：暂无] [山东大学软件学院2023年全国优秀大学生暑期夏令营营员名单公示](https://www.sc.sdu.edu.cn/info/1019/4141.htm)
+
+[截止：暂无] [西北工业大学微电子学院暑期夏令营入营名单](https://weidianzi.nwpu.edu.cn/info/1132/3924.htm)
+
+[截止：暂无] [中山大学信息管理学院关于公布2023年优秀大学生夏令营入选人员名单的通知](https://ischool.sysu.edu.cn/zh-hans/article/376)
+
+[截止：暂无] [中山大学智能工程学院关于公布2023年交通运输工程学科优秀大学生夏令营预入营名单的 通知](https://ise.sysu.edu.cn/notice/1409777.htm)
+
+[截止：暂无] [武汉大学信息管理学院2023年优秀大学生夏令营营员名单公告](http://sim.whu.edu.cn/info/1073/13549.htm)
+
+[截止：暂无] [中国人民大学信息资源管理学院“2023年全国优秀研究生夏令营”入营名单](https://irm.ruc.edu.cn/xydt/tzgg/45563c39e9644138ac51a88e5571fde7.htm)
+
+[截止：暂无] [清华大学深圳国际研究生院2023年海洋工程研究院优秀大学生夏令营入营名单](https://www.sigs.tsinghua.edu.cn/2023/0630/c120a89118/page.htm)
+
+[截止：暂无] [清华大学国际开放创新教育中心（Open FIESTA）2023年优秀大学生创新设计工坊暨夏令营电子信息（互联网+创新设计）项目入营名单](https://www.sigs.tsinghua.edu.cn/2023/0629/c120a89068/page.htm)
+
+[截止：暂无] [吉林大学仪器科学与电气工程学院2023年优秀大学生夏令营入营名单的通知](http://ciee.jlu.edu.cn/info/1082/13589.htm)
+
+[截止：暂无] [中国地质大学（武汉）地球物理与空间信息学院2023年研招校园开放日入选学生名单](https://dkxy.cug.edu.cn/info/1037/4395.htm)
+
+[截止：暂无] [西南大学人工智能学院2023年优秀大学生暑期夏令营入营名单](http://ai.swu.edu.cn/info/1109/2449.htm)
+
+[截止：暂无] [同济大学测绘与地理信息学院优秀学生暑期学校补录通知](https://celiang.tongji.edu.cn/info/1205/3223.htm)
+
 ## 收集计算机保研信息不易，大家帮忙点个star呗！
 
 **计算机保研交流一群：**  &nbsp; 1080150860（近2000人）  &nbsp; &nbsp;二群：731633297
