@@ -1,10 +1,19 @@
 ## 23年计算机夏令营入营通知
 
 
-[截止：8.1] [杭州电子科技大学“智能信息处理实验室”2023年大学生暑期夏令营通知](http://iipl.net.cn/index/article/id/172.aspx)
+[截止：暂无] [湖南大学信息科学与工程学院2023年夏令营营员入营名单公示](http://csee.hnu.edu.cn/info/1062/12710.htm)
 
-[截止：暂无] [中国石油大学（北京）信息科学与工程学院2023年优秀大学生夏令营招生简章](https://www.cup.edu.cn/cise/tzgg2/b21c933b85d74b75a4fb4f6ac485dfef.htm)
+[截止：暂无] [浙江大学控制学院2023年第十二届“控制之旅”学术夏令营预备营员入选通知](http://www.cse.zju.edu.cn/2023/0628/c39333a2776767/page.htm)
 
+[截止：暂无] [中国科学院过程工程研究所2023年夏令营（第二批）通知及入营名单](http://edu.ipe.ac.cn/zsxx/202306/t20230630_170097.html)
+
+[截止：暂无] [吉林大学电子科学与工程学院2023年优秀大学生夏令营入围营员名单](http://ee.jlu.edu.cn/info/1038/7963.htm)
+
+[截止：暂无] [中央财经大学信息学院第七届夏令营入营名单及日常安排](https://ie.cufe.edu.cn/info/1069/5258.htm)
+
+[截止：暂无] [同济大学测绘与地理信息学院优秀学生暑期学校补录通知](https://celiang.tongji.edu.cn/info/1205/3223.htm)
+
+[截止：暂无] [国防科技大学系统工程学院2023年优秀大学生夏令营营员名单](http://yjszs.nudt.edu.cn/zsmh/pubweb/homePageList/detailed.view?keyId=13122)
 
 ## 收集计算机保研信息不易，大家帮忙点个star呗！
 
