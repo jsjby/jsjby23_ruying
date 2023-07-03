@@ -33,6 +33,10 @@
 
 [截止：暂无] [中国科学院大学南京学院第二届暑期学校学员名单公示](https://njc.ucas.ac.cn/info/1088/3053.htm)
 
+[截止：暂无] [中国科学院光电技术研究所2023年仰望星空夏令营入营名单](https://www.ioeyjsb.com/zhaosheng/show.asp?id=1860)
+
+[截止：暂无] [中国科学院上海微系统与信息技术研究所2023年夏令营入围学生名单](http://www.sim.cas.cn/yjs/zsxx/yjs_sszs/202306/t20230630_6801717.html)
+
 [截止：暂无] [吉林大学电子科学与工程学院2023年优秀大学生夏令营入围营员名单](http://ee.jlu.edu.cn/info/1038/7963.htm)
 
 [截止：暂无] [吉林大学人工智能学院关于公布2023年优秀大学生夏令营入选营员名单的通知](http://sai.jlu.edu.cn/info/1033/4359.htm)
@@ -51,6 +55,8 @@
 
 [截止：暂无] [同济大学测绘与地理信息学院优秀学生暑期学校补录通知](https://celiang.tongji.edu.cn/info/1205/3223.htm)
 
+[截止：暂无] [国防科技大学智能科学学院2023年优秀大学生夏令营营员名单](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13123)
+
 [截止：暂无] [国防科技大学系统工程学院2023年优秀大学生夏令营营员名单](http://yjszs.nudt.edu.cn/zsmh/pubweb/homePageList/detailed.view?keyId=13122)
 
 [截止：暂无] [南开大学人工智能学院优秀大学生夏令营入营名单公示](https://ai.nankai.edu.cn/info/1024/5371.htm)
@@ -68,6 +74,8 @@
 [截止：暂无] [天津大学 医学部2023 年夏令营入选通知](http://mctu.tju.edu.cn/info/1061/2881.htm)
 
 [截止：暂无] [山东大学软件学院2023年全国优秀大学生暑期夏令营营员名单公示](https://www.sc.sdu.edu.cn/info/1019/4141.htm)
+
+[截止：暂无] [山东大学数学学院2023年夏令营入营名单公示](https://www.math.sdu.edu.cn/info/1031/18815.htm)
 
 [截止：暂无] [山东大学控制学院2023年夏令营入营名单公布及开营工作安排的通知](http://control.sdu.edu.cn/info/1018/6561.htm)
 
@@ -95,6 +103,8 @@
 
 [截止：暂无] [中山大学信息管理学院关于公布2023年优秀大学生夏令营入选人员名单的通知](https://ischool.sysu.edu.cn/zh-hans/article/376)
 
+[截止：暂无] [中山大学人工智能学院2023年全国优秀大学生夏令营入营通知](https://sai.sysu.edu.cn/teach/graduate/1409726.htm)
+
 [截止：暂无] [中山大学微电子科学与技术学院2023年全国优秀大学生暑期夏令营日程安排及入营名单公布](https://mst.sysu.edu.cn/article/846)
 
 [截止：暂无] [中山大学智能工程学院关于公布2023年交通运输工程学科优秀大学生夏令营预入营名单的 通知](https://ise.sysu.edu.cn/notice/1409777.htm)
@@ -112,6 +122,8 @@
 [截止：暂无] [武汉大学计算机学院2023年优秀大学生线上夏令营入营名单公告](https://cs.whu.edu.cn/info/1071/4629.htm)
 
 [截止：暂无] [中国人民大学信息资源管理学院“2023年全国优秀研究生夏令营”入营名单](https://irm.ruc.edu.cn/xydt/tzgg/45563c39e9644138ac51a88e5571fde7.htm)
+
+[截止：暂无] [中国人民大学信息资源管理学院“2023年全国优秀大学生夏令营”递补入营名单](https://irm.ruc.edu.cn/xydt/tzgg/1546fe64080f4391a1f5101bcef8af62.htm)
 
 [截止：暂无] [中国人民大学信息学院优秀大学生夏令营营员名单](http://info.ruc.edu.cn/xwgg/xygg/36a62abbbdfa441f8828e1e0601ced30.htm)
 
@@ -180,6 +192,8 @@
 [截止：暂无] [中南财经政法大学信息与安全工程学院文澜优秀大学生夏令营 “工程Plus”分营优秀营员成绩公示](https://xagx.zuel.edu.cn/2023/0627/c3402a338731/page.htm)
 
 [截止：暂无] [中央财经大学信息学院第七届夏令营入营名单及日常安排](https://ie.cufe.edu.cn/info/1069/5258.htm)
+
+[截止：暂无] [中央财经大学统计与数学学院第七届全国优秀大学生夏令营入营通知](http://sam.cufe.edu.cn/info/1037/4467.htm)
 
 [截止：暂无] [东华大学信息学院2023年暑期夏令营参营名单](https://web.dhu.edu.cn/cist/2023/0625/c3004a327412/page.htm)
 
