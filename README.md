@@ -101,67 +101,67 @@
 
 [入营人数：390] [厦门大学信息学院（特色化示范性软件学院）2023年全国优秀大学生夏令营入营名单](https://informatics.xmu.edu.cn/info/1050/31429.htm)
 
-[截止：暂无] [中山大学信息管理学院关于公布2023年优秀大学生夏令营入选人员名单的通知](https://ischool.sysu.edu.cn/zh-hans/article/376)
+[入营人数：36] [中山大学信息管理学院关于公布2023年优秀大学生夏令营入选人员名单的通知](https://ischool.sysu.edu.cn/zh-hans/article/376)
 
-[截止：暂无] [中山大学人工智能学院2023年全国优秀大学生夏令营入营通知](https://sai.sysu.edu.cn/teach/graduate/1409726.htm)
+[入营人数：84] [中山大学人工智能学院2023年全国优秀大学生夏令营入营通知](https://sai.sysu.edu.cn/teach/graduate/1409726.htm)
 
-[截止：暂无] [中山大学微电子科学与技术学院2023年全国优秀大学生暑期夏令营日程安排及入营名单公布](https://mst.sysu.edu.cn/article/846)
+[入营人数：90] [中山大学微电子科学与技术学院2023年全国优秀大学生暑期夏令营日程安排及入营名单公布](https://mst.sysu.edu.cn/article/846)
 
-[截止：暂无] [中山大学智能工程学院关于公布2023年交通运输工程学科优秀大学生夏令营预入营名单的 通知](https://ise.sysu.edu.cn/notice/1409777.htm)
+[入营人数：151] [中山大学智能工程学院关于公布2023年交通运输工程学科优秀大学生夏令营预入营名单的 通知](https://ise.sysu.edu.cn/notice/1409777.htm)
 
-[截止：暂无] [中山大学网络空间安全学院关于公布2023年全国优秀大学生夏令营营员名单的通知](https://scst.sysu.edu.cn/news/news02/1409700.htm)
+[入营人数：60] [中山大学网络空间安全学院关于公布2023年全国优秀大学生夏令营营员名单的通知](https://scst.sysu.edu.cn/news/news02/1409700.htm)
 
-[截止：暂无] [中山大学网络空间安全学院关于公布2023年全国优秀大学生夏令营营员名单的通知(第二批)](https://scst.sysu.edu.cn/news/news02/1409745.htm)
+[入营人数：15] [中山大学网络空间安全学院关于公布2023年全国优秀大学生夏令营营员名单的通知(第二批)](https://scst.sysu.edu.cn/news/news02/1409745.htm)
 
-[截止：暂无] [武汉大学信息管理学院2023年优秀大学生夏令营营员名单公告](http://sim.whu.edu.cn/info/1073/13549.htm)
+[入营人数：209] [武汉大学信息管理学院2023年优秀大学生夏令营营员名单公告](https://sim.whu.edu.cn/info/1776/15275.htm)
 
-[截止：暂无] [武汉大学遥感信息工程学院2023年优秀大学生夏令营活动入营名单公示及活动安排的通知](https://rsgis.whu.edu.cn/info/1083/11901.htm)
+[入营人数：281] [武汉大学遥感信息工程学院2023年优秀大学生夏令营活动入营名单公示及活动安排的通知](https://rsgis.whu.edu.cn/info/1083/11901.htm)
 
-[截止：暂无] [武汉大学国家网络安全学院2023年优秀大学生夏令营入营公告](https://cse.whu.edu.cn/info/1101/4631.htm)
+[入营人数：310] [武汉大学国家网络安全学院2023年优秀大学生夏令营入营公告](https://cse.whu.edu.cn/info/1101/4631.htm)
 
-[截止：暂无] [武汉大学计算机学院2023年优秀大学生线上夏令营入营名单公告](https://cs.whu.edu.cn/info/1071/4629.htm)
+[入营人数：220] [武汉大学计算机学院2023年优秀大学生线上夏令营入营名单公告](https://cs.whu.edu.cn/info/1071/4629.htm)
 
-[截止：暂无] [中国人民大学信息资源管理学院“2023年全国优秀研究生夏令营”入营名单](https://irm.ruc.edu.cn/xydt/tzgg/45563c39e9644138ac51a88e5571fde7.htm)
+[入营人数：34] [中国人民大学信息资源管理学院“2023年全国优秀研究生夏令营”入营名单](https://irm.ruc.edu.cn/xydt/tzgg/45563c39e9644138ac51a88e5571fde7.htm)
 
-[截止：暂无] [中国人民大学信息资源管理学院“2023年全国优秀大学生夏令营”递补入营名单](https://irm.ruc.edu.cn/xydt/tzgg/1546fe64080f4391a1f5101bcef8af62.htm)
+[入营人数：15] [中国人民大学信息资源管理学院“2023年全国优秀大学生夏令营”递补入营名单](https://irm.ruc.edu.cn/xydt/tzgg/1546fe64080f4391a1f5101bcef8af62.htm)
 
-[截止：暂无] [中国人民大学信息学院优秀大学生夏令营营员名单](http://info.ruc.edu.cn/xwgg/xygg/36a62abbbdfa441f8828e1e0601ced30.htm)
+[入营人数：91] [中国人民大学信息学院优秀大学生夏令营营员名单](http://info.ruc.edu.cn/xwgg/xygg/36a62abbbdfa441f8828e1e0601ced30.htm)
 
 [截止：暂无] [清华大学深圳国际研究生院2023年数据与信息研究院全国优秀大学生夏令营入营名单](https://www.sigs.tsinghua.edu.cn/2023/0628/c120a89048/page.htm)
 
-[截止：暂无] [清华大学深圳国际研究生院2023年海洋工程研究院优秀大学生夏令营入营名单](https://www.sigs.tsinghua.edu.cn/2023/0630/c120a89118/page.htm)
+[入营人数：54] [清华大学深圳国际研究生院2023年海洋工程研究院优秀大学生夏令营入营名单](https://www.sigs.tsinghua.edu.cn/2023/0630/c120a89118/page.htm)
 
-[截止：暂无] [清华大学国际开放创新教育中心2023年优秀大学生创新设计工坊暨夏令营电子信息（互联网+创新设计）入营名单](https://www.sigs.tsinghua.edu.cn/2023/0629/c120a89068/page.htm)
+[入营人数：19] [清华大学国际开放创新教育中心2023年优秀大学生创新设计工坊暨夏令营电子信息（互联网+创新设计）入营名单](https://www.sigs.tsinghua.edu.cn/2023/0629/c120a89068/page.htm)
 
-[截止：暂无] [北京大学智能学院2023年优秀大学生夏令营入营名单（第二批）](https://www.cis.pku.edu.cn/info/1034/2769.htm)
+[入营人数：3] [北京大学智能学院2023年优秀大学生夏令营入营名单（第二批）](https://www.cis.pku.edu.cn/info/1034/2769.htm)
 
-[截止：暂无] [北京大学智能学院2023年优秀大学生夏令营入营通知](https://www.cis.pku.edu.cn/info/1034/2768.htm)
+[入营人数：147] [北京大学智能学院2023年优秀大学生夏令营入营通知](https://www.cis.pku.edu.cn/info/1034/2768.htm)
 
-[截止：暂无] [北京大学电子学院2023年优秀大学生夏令营入营名单（第二批）](https://ele.pku.edu.cn/info/1232/2711.htm)
+[入营人数：4] [北京大学电子学院2023年优秀大学生夏令营入营名单（第二批）](https://ele.pku.edu.cn/info/1232/2711.htm)
 
-[截止：暂无] [北京大学计算机学院2023年优秀大学生夏令营入营通知）](https://cs.pku.edu.cn/info/1336/4103.htm)
+[入营人数：275] [北京大学计算机学院2023年优秀大学生夏令营入营通知）](https://cs.pku.edu.cn/info/1336/4103.htm)
 
-[截止：暂无] [北京大学计算机学院2023年优秀大学生夏令营入营名单（第二批）](https://cs.pku.edu.cn/info/1336/4112.htm)
+[入营人数：2] [北京大学计算机学院2023年优秀大学生夏令营入营名单（第二批）](https://cs.pku.edu.cn/info/1336/4112.htm)
 
-[截止：暂无] [北京大学电子学院2023年优秀大学生夏令营入营通知](https://ele.pku.edu.cn/info/1232/2710.htm)
+[入营人数：181] [北京大学电子学院2023年优秀大学生夏令营入营通知](https://ele.pku.edu.cn/info/1232/2710.htm)
 
-[截止：暂无] [北京大学前沿交叉学科优秀大学生夏令营入营名单](http://www.aais.pku.edu.cn/tongzhi/shownews.php?lang=cn&id=1640)
+[入营人数：162] [北京大学前沿交叉学科优秀大学生夏令营入营名单](http://www.aais.pku.edu.cn/tongzhi/shownews.php?lang=cn&id=1640)
 
-[截止：暂无] [北京师范大学地理科学学部“遥感科学与技术”、“地图学与地理信息系统”学科2023年度夏令营录取名单](https://geo.bnu.edu.cn/tzgg/383552f7bfdb4092b97787312bd92156.html)
+[入营人数：56] [北京师范大学地理科学学部“遥感科学与技术”、“地图学与地理信息系统”学科2023年度夏令营录取名单](https://geo.bnu.edu.cn/tzgg/383552f7bfdb4092b97787312bd92156.html)
 
-[截止：暂无] [北京理工大学光电学院2023年暑期夏令营入营名单公示](https://opt.bit.edu.cn/tzgg2/tzgg/5d7e8f225a95466784dbed8fac9ee986.htm)
+[入营人数：276] [北京理工大学光电学院2023年暑期夏令营入营名单公示](https://opt.bit.edu.cn/tzgg2/tzgg/5d7e8f225a95466784dbed8fac9ee986.htm)
 
-[截止：暂无] [北京理工大学信息与电子学院 2023年全国优秀大学生暑期夏令营营员名单](https://sie.bit.edu.cn/tzgg/zhtz/3c2708652d3b4d0f80aa1a2f97d1385f.htm)
+[入营人数：280] [北京理工大学信息与电子学院 2023年全国优秀大学生暑期夏令营营员名单](https://sie.bit.edu.cn/tzgg/zhtz/3c2708652d3b4d0f80aa1a2f97d1385f.htm)
 
-[截止：暂无] [北京理工大学网络空间安全学院暑期夏令营入营名单公示](https://cst.bit.edu.cn/xxfw/gsxx/f27a4d7549634aad8f3f98ecde77cbaa.htm)
+[入营人数：91] [北京理工大学网络空间安全学院暑期夏令营入营名单公示](https://cst.bit.edu.cn/xxfw/gsxx/f27a4d7549634aad8f3f98ecde77cbaa.htm)
 
-[截止：暂无] [北京理工大学集成电路与电子学院2023年全国优秀大学生暑期夏令营营员名单](https://ice.bit.edu.cn/xxfw/tzgg1/a0425c8b48ba450faab998cb7db9a29a.htm)
+[入营人数：198] [北京理工大学集成电路与电子学院2023年全国优秀大学生暑期夏令营营员名单](https://ice.bit.edu.cn/xxfw/tzgg1/a0425c8b48ba450faab998cb7db9a29a.htm)
 
-[截止：暂无] [北京理工大学机电学院2023年暑期夏令营活动安排及参营营员名单公布](https://smen.bit.edu.cn/tzgg1/329e8e14259a4b49a048e25065395111.htm)
+[入营人数：138] [北京理工大学机电学院2023年暑期夏令营活动安排及参营营员名单公布](https://smen.bit.edu.cn/tzgg1/329e8e14259a4b49a048e25065395111.htm)
 
-[截止：暂无] [北京理工大学自动化学院2023年暑期夏令营录取名单公示](https://ac.bit.edu.cn/tzgg/234de61204aa4f92866def8c711a49ea.htm)
+[入营人数：130] [北京理工大学自动化学院2023年暑期夏令营录取名单公示](https://ac.bit.edu.cn/tzgg/234de61204aa4f92866def8c711a49ea.htm)
 
-[截止：暂无] [北京航空航天大学软件学院招收 2024 年研究生优秀大学生 夏令营报名名单](https://soft.buaa.edu.cn/news_nry.jsp?urltype=news.NewsContentUrl&wbtreeid=1325&wbnewsid=10576)
+[入营人数：292] [北京航空航天大学软件学院招收 2024 年研究生优秀大学生 夏令营报名名单](https://soft.buaa.edu.cn/news_nry.jsp?urltype=news.NewsContentUrl&wbtreeid=1325&wbnewsid=10576)
 
 [截止：暂无] [北京航空航天大学计算机学院2023年优秀大学生夏令营入营名单及活动安排](https://scse.buaa.edu.cn/info/1299/9843.htm)
 
