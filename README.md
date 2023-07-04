@@ -53,29 +53,31 @@
 
 [入营人数：178] [中南大学机电工程学院 “2023年优秀大学生暑期夏令营” 资格审核通过名单公示](https://cmee.csu.edu.cn/info/1090/5387.htm)
 
-[截止：暂无] [同济大学测绘与地理信息学院优秀学生暑期学校补录通知](https://celiang.tongji.edu.cn/info/1205/3223.htm)
+[入营人数：6] [同济大学测绘与地理信息学院优秀学生暑期学校补录通知](https://celiang.tongji.edu.cn/info/1205/3223.htm)
 
-[截止：暂无] [国防科技大学智能科学学院2023年优秀大学生夏令营营员名单](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13123)
+[入营人数：60] [同济大学测绘与地理信息学院优秀大学生暑期夏令营入营营员名单公示](https://celiang.tongji.edu.cn/info/1205/3191.htm)
 
-[截止：暂无] [国防科技大学系统工程学院2023年优秀大学生夏令营营员名单](http://yjszs.nudt.edu.cn/zsmh/pubweb/homePageList/detailed.view?keyId=13122)
+[入营人数：461] [国防科技大学智能科学学院2023年优秀大学生夏令营营员名单](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13123)
 
-[截止：暂无] [南开大学人工智能学院优秀大学生夏令营入营名单公示](https://ai.nankai.edu.cn/info/1024/5371.htm)
+[入营人数：300] [国防科技大学系统工程学院2023年优秀大学生夏令营营员名单](http://yjszs.nudt.edu.cn/zsmh/pubweb/homePageList/detailed.view?keyId=13122)
 
-[截止：暂无] [南开大学人工智能学院2023年优秀大学生夏令营直博生入营名单公示](https://ai.nankai.edu.cn/info/1024/5372.htm)
+[入营人数：60] [南开大学人工智能学院优秀大学生夏令营入营名单公示](https://ai.nankai.edu.cn/info/1024/5371.htm)
 
-[截止：暂无] [南开大学软件学院2023年“活力软件”优秀大学生夏令营入营名单](https://cs.nankai.edu.cn/info/1042/3484.htm)
+[入营人数：2] [南开大学人工智能学院2023年优秀大学生夏令营直博生入营名单公示](https://ai.nankai.edu.cn/info/1024/5372.htm)
 
-[截止：暂无] [南开大学电子信息与光学工程学院2023“相约电光”夏令营参营营员名单](https://ceo.nankai.edu.cn/info/1099/3794.htm)
+[入营人数：57] [南开大学软件学院2023年“活力软件”优秀大学生夏令营入营名单](https://cs.nankai.edu.cn/info/1042/3484.htm)
 
-[截止：暂无] [天津大学佐治亚理工深圳学院2024级研究生招生夏令营入营通知](https://www.gtsi.edu.cn/node/3923)
+[入营人数：159] [南开大学电子信息与光学工程学院2023“相约电光”夏令营参营营员名单](https://ceo.nankai.edu.cn/info/1099/3794.htm)
 
-[截止：暂无] [天津大学电气自动化与信息工程学院2024级研究生招生夏令营入营通知](http://seea.tju.edu.cn/info/1031/3863.htm)
+[入营人数：56] [天津大学佐治亚理工深圳学院2024级研究生招生夏令营入营通知](https://www.gtsi.edu.cn/node/3923)
 
-[截止：暂无] [天津大学 医学部2023 年夏令营入选通知](http://mctu.tju.edu.cn/info/1061/2881.htm)
+[入营人数：90] [天津大学电气自动化与信息工程学院2024级研究生招生夏令营入营通知](http://seea.tju.edu.cn/info/1031/3863.htm)
 
-[截止：暂无] [山东大学软件学院2023年全国优秀大学生暑期夏令营营员名单公示](https://www.sc.sdu.edu.cn/info/1019/4141.htm)
+[入营人数：277] [天津大学 医学部2023 年夏令营入选通知](http://mctu.tju.edu.cn/info/1061/2881.htm)
 
-[截止：暂无] [山东大学数学学院2023年夏令营入营名单公示](https://www.math.sdu.edu.cn/info/1031/18815.htm)
+[入营人数：539] [山东大学软件学院2023年全国优秀大学生暑期夏令营营员名单公示](https://www.sc.sdu.edu.cn/info/1019/4141.htm)
+
+[入营人数：150] [山东大学数学学院2023年夏令营入营名单公示](https://www.math.sdu.edu.cn/info/1031/18815.htm)
 
 [截止：暂无] [山东大学控制学院2023年夏令营入营名单公布及开营工作安排的通知](http://control.sdu.edu.cn/info/1018/6561.htm)
 
