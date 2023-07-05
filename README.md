@@ -251,7 +251,7 @@
 **计算机保研服务介绍：**  &nbsp; <a href="https://github.com/jsjby/jsjby_2023/blob/main/PDF/23年计算机保研方案.pdf" target="_blank">2023年计算机保研服务介绍</a>
 
 ### 计算机保研交流一群：1080150860（近2000人）
-<img src="https://github.com/jsjby/jsjby_2023/blob/main/images/微信5.jpg" width="80%">
+<img src="https://github.com/jsjby/jsjby_2023/blob/main/images/微信6.jpg" width="80%">
 
 
 ### 计算机保研各个高校面试资料领取（500多页）
