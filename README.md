@@ -99,6 +99,8 @@
 
 [入营人数：172] [西北工业大学电子信息学院2023年全国优秀大学生暑期夏令营第一批营员名单](https://dianzi.nwpu.edu.cn/info/1507/24501.htm)
 
+[入营人数：135] [西北工业大学电子信息学院2023年全国优秀大学生暑期夏令营第二批营员名单](https://dianzi.nwpu.edu.cn/info/1507/24541.htm)
+
 [入营人数：488] [西安交通大学电气工程学院2023年夏令营活动安排](http://ee.xjtu.edu.cn/info/1124/11981.htm)
 
 [入营人数：400] [西安交通大学电信学部计算机科学与技术学院夏令营入营名单](http://www.cs.xjtu.edu.cn/info/1233/3149.htm)
@@ -171,6 +173,10 @@
 
 [入营人数：162] [北京大学前沿交叉学科优秀大学生夏令营入营名单](http://www.aais.pku.edu.cn/tongzhi/shownews.php?lang=cn&id=1640)
 
+[入营人数：213] [北京大学软件与微电子学院2023年优秀大学生夏令营入营名单](https://www.ss.pku.edu.cn/admission/admnotice/4480.html)
+
+[入营人数：10] [北京大学软件与微电子学院2023年优秀大学生夏令营参营名单（第二批）](https://www.ss.pku.edu.cn/admission/admnotice/4484.html)
+
 [入营人数：56] [北京师范大学地理科学学部“遥感科学与技术”、“地图学与地理信息系统”学科2023年度夏令营录取名单](https://geo.bnu.edu.cn/tzgg/383552f7bfdb4092b97787312bd92156.html)
 
 [入营人数：276] [北京理工大学光电学院2023年暑期夏令营入营名单公示](https://opt.bit.edu.cn/tzgg2/tzgg/5d7e8f225a95466784dbed8fac9ee986.htm)
@@ -192,6 +198,8 @@
 [入营人数：449] [北京航空航天大学计算机学院2023年优秀大学生夏令营入营名单及活动安排](https://scse.buaa.edu.cn/info/1299/9843.htm)
 
 [入营人数：80] [北京航空航天大学集成电路科学与工程学院招收2024年研究生优秀大学生夏令营营员名单](http://www.sme.buaa.edu.cn/info/1036/6517.htm)
+
+[入营人数：150] [北京航空航天大学数学科学学院2023年优秀大学生数学夏令营入选学生名单](https://math.buaa.edu.cn/info/1043/9799.htm)
 
 [入营人数：66] [北京电子科技学院2023年暑期夏令营营员名单](https://www.besti.edu.cn/600/1734.html)
 
