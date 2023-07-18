@@ -53,7 +53,9 @@
 
 [入营人数：18] [中国科学技术大学未来技术学院2023年第二届交叉学科夏令营入营通知（第一批）](http://tqms.ustc.edu.cn/?menu=xlylist&xlyid=36)
 
-[入营人数：287] [中国科学技术大学苏州高等研究院2023年第三届苏州高等研究院夏令营入营通知（第一批）](http://tqms.ustc.edu.cn/?menu=xlylist&xlyid=33)
+[入营人数：283] [中国科学技术大学苏州高等研究院2023年第三届苏州高等研究院夏令营入营通知（第一批）](http://tqms.ustc.edu.cn/?menu=xlylist&xlyid=33)
+
+[入营人数：35] [中国科学技术大学苏州高等研究院2023年第三届苏州高等研究院夏令营入营通知（第二批）](http://tqms.ustc.edu.cn/?menu=xlylist&xlyid=33)
 
 [入营人数：29] [中国科学技术大学地球和空间科学学院2023年第四届空间科学与技术夏令营入营通知（第一批）](http://tqms.ustc.edu.cn/?menu=xlylist&xlyid=28)
 
@@ -63,7 +65,9 @@
 
 [入营人数：203] [中国科学技术大学计算机科学与技术学院2023年第十届计算机科学夏令营入营通知（第一批）](http://tqms.ustc.edu.cn/?menu=xlylist&xlyid=15)
 
-[入营人数：263] [中国科学技术大学信息科学技术学院2023年第十届信息科技夏令营入营通知（第一批）](http://tqms.ustc.edu.cn/?menu=xlylist&xlyid=14)
+[入营人数：304] [中国科学技术大学信息科学技术学院2023年第十届信息科技夏令营入营通知（第一批）](http://tqms.ustc.edu.cn/?menu=xlylist&xlyid=14)
+
+[入营人数：29] [中国科学技术大学信息科学技术学院2023年第十届信息科技夏令营入营通知（第二批）](http://tqms.ustc.edu.cn/?menu=xlylist&xlyid=14)
 
 [入营人数：478] [中国科学技术大学研究生院科学岛分院、环光学院2023年第十届科学岛夏令营入营通知（第一批）](http://tqms.ustc.edu.cn/?menu=xlylist&xlyid=1)
 
@@ -262,6 +266,8 @@
 [入营人数：31] [北京语言大学信息科学学院暨语言智能研究院2023 年全国优秀大学生夏令营入营名单](http://yjsy.blcu.edu.cn/attach/0/91b784f97486448d86518b83f5e1d0b0.pdf)
 
 [入营人数：42] [大连海事大学信息科学技术学院 全国优秀大学生夏令营活动入营名单](https://ist.dlmu.edu.cn/info/1068/4248.htm)
+
+[入营人数：2] [大连海事大学信息科学技术学院2023年夏令营递补入营的通知](https://ist.dlmu.edu.cn/info/1068/4258.htm)
 
 [入营人数：42] [大连理工大学数学学院2024年夏令营面试成绩公示-计算数学](https://math.dlut.edu.cn/info/1083/16085.htm)
 
