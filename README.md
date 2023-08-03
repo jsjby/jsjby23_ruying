@@ -1,6 +1,8 @@
 ## 23年计算机夏令营入营通知
 
 
+[入营人数：102] [东南大学自动化学院关于夏令营入围补充名单通知](https://automation.seu.edu.cn/2023/0803/c24460a456221/page.htm)
+
 [入营人数：153] [复旦大学大数据学院2023年全国优秀大学生夏令营活动入营名单](https://sds.fudan.edu.cn/bc/60/c17701a506976/page.htm)
 
 [入营人数：332] [复旦大学计算机科学技术学院2023年全国优秀大学生夏令营活动入围名单](https://cs.fudan.edu.cn/ba/14/c24277a506388/page.htm)
@@ -100,6 +102,8 @@
 [入营人数：400] [国防科技大学电子科学学院2023年优秀大学生夏令营营员名单](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13129)
 
 [入营人数：33] [国防科技大学智能科学学院2023年优秀大学生夏令营营员补录名单](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13125)
+
+[入营人数：35] [国防科技大学智能科学学院优秀大学生夏令营营员（第二批）名单](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13197)
 
 [入营人数：150] [国防科技大学电子对抗学院2023年优秀大学生夏令营营员名单](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13126)
 
