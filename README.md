@@ -107,6 +107,8 @@
 
 [入营人数：150] [国防科技大学电子对抗学院2023年优秀大学生夏令营营员名单](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13126)
 
+[入营人数：6] [国防科技大学电子对抗学院2023年优秀大学生夏令营营员名单](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13209)
+
 [入营人数：12] [国防科技大学电子对抗学院2023年优秀大学生夏令营营员名单（补录）](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13136)
 
 [入营人数：864] [国防科技大学计算机学院2023年优秀大学生夏令营营员名单](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13124)
@@ -294,6 +296,8 @@
 [入营人数：176] [华东理工大学信息科学与工程学院2023年全国大学生暑期夏令营入围名单](https://cise.ecust.edu.cn/2023/0626/c7692a157469/page.htm)
 
 [入营人数：206] [华北电力大学电气与电子工程学院2023年“直通电院”夏令营入营名单公示](https://electric.ncepu.edu.cn/zsgz/bsyjszs/1e0b476e524c4f32a0c8767cca8ea7f2.htm)
+
+[入营人数：173] [华北电力大学控制与计算机工程学院2023年优秀大学生夏令营入围营员名单公示](https://cce.ncepu.edu.cn/tztg1/4a98746d44c34e0c8bf3331de9af1491.htm)
 
 [入营人数：50] [西南大学人工智能学院2023年优秀大学生暑期夏令营入营名单](http://ai.swu.edu.cn/info/1109/2449.htm)
 
