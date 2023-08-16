@@ -1,5 +1,8 @@
 ## 23年计算机夏令营入营通知
 
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/jsjby/count.svg" alt ="访问次数" title ="访问次数"/>
+</p>
 
 [入营人数：102] [东南大学自动化学院关于夏令营入围补充名单通知](https://automation.seu.edu.cn/2023/0803/c24460a456221/page.htm)
 
