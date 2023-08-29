@@ -232,6 +232,24 @@
 
 [入营人数：198] [中国科学院软件研究所2023年“软件与网络”夏令营营员名单](http://www.iscas.ac.cn/yjsjy2016/zsxx2016/202307/t20230711_6808058.html)
 
+[入营人数：187] [清华大学2024年软件学院接收优秀应届本科毕业生免试攻读研究生直硕、直博综合考核名单公示](https://yzbm.tsinghua.edu.cn/publish/s01/s0101/detail/2e0ef697-4ac4-4ac6-89c7-75a7d0f5970f?yxsdm=410)
+
+[入营人数：381] [清华大学电子工程系接收优秀应届本科毕业生免试攻读研究生综合考核名单公示](https://www.ee.tsinghua.edu.cn/info/1078/4147.htm)
+
+[入营人数：60] [清华大学2024年网络科学与网络空间研究院接收优秀应届本科毕业生免试攻读研究生综合考核名单公示](https://yzbm.tsinghua.edu.cn/publish/s01/s0101/detail/1bbb656b-6a41-439b-b120-765cf3fd09ab?yxsdm=412)
+
+[入营人数：51] [清华大学2024年自动化系推荐免试直硕综合考核公示名单--大数据工程硕士](https://yzbm.tsinghua.edu.cn/publish/s01/s0101/detail/7557d0b7-df3a-457d-8d64-62470cffaa88?yxsdm=025)
+
+[入营人数：50] [清华大学2024年法学院免试攻读研究生法学硕士综合考核名单公示](https://yzbm.tsinghua.edu.cn/publish/s01/s0101/detail/5987763d-e98c-4a99-83e9-479481ff150d?yxsdm=066)
+
+[入营人数：4] [清华大学深圳国际研究生院计算机科学与技术学科2024年直博生综合考核名单公示](https://yzbm.tsinghua.edu.cn/publish/s01/s0101/detail/c351d5f0-5b9e-4e1e-87d9-976a520375dd?yxsdm=599)
+
+[入营人数：20] [清华大学深圳国际研究生院数据科学和信息技术专业2024年直博生综合考核名单公示](https://yzbm.tsinghua.edu.cn/publish/s01/s0101/detail/cfc858be-2e00-4ebb-9857-ed09d8c45893?yxsdm=599)
+
+[入营人数：6] [清华大学深圳国际研究生院信息与通信工程学科2024年直博生综合考核名单公示](https://yzbm.tsinghua.edu.cn/publish/s01/s0101/detail/1051e765-847e-4cb8-8807-6785920d017e?yxsdm=599)
+
+[入营人数：4] [清华大学深圳国际研究生院电子科学与技术学科2024年直博生综合考核名单公示](https://yzbm.tsinghua.edu.cn/publish/s01/s0101/detail/f470e443-840a-4419-a198-f8c3fc3ccae1?yxsdm=599)
+
 [入营人数：33] [清华大学深圳国际研究生院2024年直博生综合考核名单](https://www.sigs.tsinghua.edu.cn/2023/0827/c111a90078/page.htm)
 
 [入营人数：60] [清华大学深圳国际研究生院2024年推荐免试直硕生综合考核名单](https://www.sigs.tsinghua.edu.cn/2023/0827/c111a90075/page.htm)
