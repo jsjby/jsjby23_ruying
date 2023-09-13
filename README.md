@@ -70,6 +70,8 @@
 
 [入营人数：168] [中国科学院大学南京学院第二届暑期学校学员名单公示](https://njc.ucas.ac.cn/info/1088/3053.htm)
 
+[入营人数：49] [中国科学院心理研究所招收2024年入学推荐免试攻读研究生复试通知](http://www.psych.ac.cn/edu/zsxx/sszs/202309/t20230913_6878952.html)
+
 [入营人数：529] [中国科学院光电技术研究所2023年仰望星空夏令营入营名单](https://www.ioeyjsb.com/zhaosheng/show.asp?id=1860)
 
 [入营人数：440] [中国科学院上海微系统与信息技术研究所2023年夏令营入围学生名单](http://www.sim.cas.cn/yjs/zsxx/yjs_sszs/202306/t20230630_6801717.html)
@@ -303,6 +305,8 @@
 [入营人数：3] [北京大学生物医学跨学科研究中心2024年推荐免试研究生复试安排及复试名单](http://www.aais.pku.edu.cn/tongzhi/shownews.php?lang=cn&id=1658)
 
 [入营人数：101] [北京大学集成电路学院2024年接收推荐免试研究生复试安排](https://ic.pku.edu.cn/rcpy/yjszs/929e38f1a6e7416e906d18683e8447c7.htm)
+
+[入营人数：119] [北京大学信息工程学院2024年推荐免试研究生复试名单公示](https://www.ece.pku.edu.cn/info/1025/2657.htm)
 
 [入营人数：56] [北京师范大学地理科学学部“遥感科学与技术”、“地图学与地理信息系统”学科2023年度夏令营录取名单](https://geo.bnu.edu.cn/tzgg/383552f7bfdb4092b97787312bd92156.html)
 
