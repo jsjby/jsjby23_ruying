@@ -4,6 +4,8 @@
   <img src="https://profile-counter.glitch.me/jsjby/count.svg" alt ="访问次数" title ="访问次数"/>
 </p>
 
+[入营人数：25] [东南大学-蒙纳士大学苏州联合研究生院2024年预推免复试名单](https://smjgs.seu.edu.cn/2023/0918/c8471a464740/page.htm)
+
 [入营人数：102] [东南大学自动化学院关于夏令营入围补充名单通知](https://automation.seu.edu.cn/2023/0803/c24460a456221/page.htm)
 
 [入营人数：251] [东南大学软件学院2023年优秀大学生夏令营活动暨推免生预选拔入选名单的通知](https://cose.seu.edu.cn/2023/0812/c18017a456449/page.htm)
