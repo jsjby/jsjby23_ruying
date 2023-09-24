@@ -136,6 +136,12 @@
 
 [入营人数：60] [同济大学测绘与地理信息学院优秀大学生暑期夏令营入营营员名单公示](https://celiang.tongji.edu.cn/info/1205/3191.htm)
 
+[入营人数：58] [国防科技大学前沿交叉学科学院2024 级地方推荐免试硕士研究生（含直博生）复试名单（第二批次）](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13354)
+
+[入营人数：302] [国防科技大学计算机学院 2024 级地方推荐免试硕士研究生（含直博生）复试名单](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13367)
+
+[入营人数：73] [国防科技大学电子对抗学院接收2024年地方高校推免研究生复试名单](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13374)
+
 [入营人数：461] [国防科技大学智能科学学院2023年优秀大学生夏令营营员名单](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13123)
 
 [入营人数：400] [国防科技大学电子科学学院2023年优秀大学生夏令营营员名单](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13129)
