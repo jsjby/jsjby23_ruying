@@ -60,9 +60,13 @@
 
 [入营人数：108] [重庆大学国家卓越工程师学院关于2023年“卓越启航” 夏令营营员名单公布及入营通知](http://eie.cqu.edu.cn/info/1483/2084.htm)
 
+[入营人数：230] [电子科技大学通信抗干扰全国重点实验室2024年接收优秀应届本科毕业生免试攻读研究生复试名单](https://www.ncl.uestc.edu.cn/info/1083/1861.htm)
+
 [入营人数：134] [电子科技大学通信抗干扰全国重点实验室2023年全国优秀大学生暑期夏令营优秀营员选拔名单](https://www.ncl.uestc.edu.cn/info/1026/2887.htm)
 
 [入营人数：271] [电子科技大学光电科学与工程学院2023年全国优秀大学生暑期夏令营入营名单公布](https://sose.uestc.edu.cn/info/1075/12043.htm?WxUg5ztDmi=1688972015102)
+
+[入营人数：172] [华中科技大学网络空间安全学院2024年接收预推免复试入围名单公示](http://cse.hust.edu.cn/info/1079/3793.htm)
 
 [入营人数：383] [华中科技大学计算机科学与技术学院2024年接收预推免复试入围名单](http://cs.hust.edu.cn/info/1439/3358.htm)
 
@@ -135,6 +139,14 @@
 [入营人数：6] [同济大学测绘与地理信息学院优秀学生暑期学校补录通知](https://celiang.tongji.edu.cn/info/1205/3223.htm)
 
 [入营人数：60] [同济大学测绘与地理信息学院优秀大学生暑期夏令营入营营员名单公示](https://celiang.tongji.edu.cn/info/1205/3191.htm)
+
+[入营人数：240] [国防科技大学系统工程学院2024 级地方推荐免试硕士研究生（含直博生）复试名单](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13389)
+
+[入营人数：167] [国防科技大学电子科学学院接收2024级推免硕士生（含直博生）复试名单](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13375)
+
+[入营人数：6] [国防科技大学电子对抗学院接收2024年地方高校推免研究生复试名单](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13390)
+
+[入营人数：26] [国防科技大学智能科学学院接收2024级地方院校推荐免试硕士研究生（含直博生）复试名单](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13380)
 
 [入营人数：58] [国防科技大学前沿交叉学科学院2024 级地方推荐免试硕士研究生（含直博生）复试名单（第二批次）](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13354)
 
@@ -401,6 +413,8 @@
 [截止：暂无] [哈尔滨工程大学2024年数学科学学院暑期夏令营营员录取名单](http://math.hrbeu.edu.cn/2023/0627/c7998a311212/page.htm)
 
 [截止：暂无] [哈尔滨工程大学计算机科学与技术学院2023年暑期夏令营名单](http://cstc.hrbeu.edu.cn/2023/0626/c3688a311157/page.htm)
+
+[入营人数：215] [中国地质大学（武汉）计算机学院2024年接收推免生预复试（第一批9月27日）名单](https://cs.cug.edu.cn/info/1021/5860.htm)
 
 [入营人数：25] [中国地质大学（武汉）地球物理与空间信息学院2023年研招校园开放日入选学生名单](https://dkxy.cug.edu.cn/info/1037/4395.htm)
 
