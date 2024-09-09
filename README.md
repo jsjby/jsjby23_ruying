@@ -500,7 +500,8 @@
 
 ## 收集计算机保研信息不易，大家帮忙点个star呗！
 
-**计算机保研交流一群：**  &nbsp; 735406077 （近2000人） 
+**计算机保研交流一群：**  &nbsp; 1080150860（近2000人）
+**计算机保研交流二群：**  &nbsp; 735406077 （近2000人） 
 **计算机保研交流三群：**  &nbsp; 715412238 （近2000人） 
 
 **微信公众号：**  &nbsp; [计算机保研信息平台](https://mp.weixin.qq.com/s/EEEoK8YZXddrS9m9SOTwDQ)
@@ -511,7 +512,7 @@
 
 **计算机保研服务介绍：**  &nbsp; <a href="https://github.com/jsjby/jsjby_2023/blob/main/PDF/23年计算机保研方案.pdf" target="_blank">2023年计算机保研服务介绍</a>
 
-### 计算机保研交流一群：1080150860（近2000人）
+
 <img src="https://github.com/jsjby/jsjby_2023/blob/main/images/微信9.jpg" width="80%">
 
 
